@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main {}
+
+.gallery {}
+
+.gallery__title {}
+
+.photo-libary {}
+
+.photo-libary__wrap {
+}
+
+.photo-libary__wrap-item {}
