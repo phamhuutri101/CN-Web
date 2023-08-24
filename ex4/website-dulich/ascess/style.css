@@ -1,0 +1,189 @@
+*/ html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* css  */
+
+.container__touris {
+    border: 8px solid #b200ed;
+    padding: 10px;
+}
+
+.footer__list-items a {
+
+    padding-left: 20px !important;
+
+}
+
+.question__ask {
+    background-color: #f7f6f6;
+    line-height: 40px;
+    padding-left: 20px;
+    /* border: solid 1px #a7a6a6; */
+}
+
+.question__ask p {
+    margin-bottom: 0;
+}
+
+.question {
+    padding-bottom: 15px;
+}
+
+.question__border {
+    border: solid 1px #a7a6a6;
+    border-radius: 3px;
+}
+
+.question__border-bottom {
+    border-bottom: solid 1px #a7a6a6;
+}
+
+.navbar {
+    background-color: #c8e5f7;
+}
+
+.navbar-list li a {
+    color: #fff;
+}
+
+.border__price {
+    border-bottom: 1px solid #dee2e6;
+    background-color: #F7F6F6;
+}
+
+.btn__succes {
+    border-top: 1px solid #dee2e6;
+    background-color: #F7F6F6;
+}
